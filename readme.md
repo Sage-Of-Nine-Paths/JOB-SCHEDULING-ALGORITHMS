@@ -1,6 +1,6 @@
 # OS LAB ASSIGNMENT
 
-# BT22CSE128 (Aniruddha Date)
+# (Aniruddha Date)
 
 1. IMP_FUNCTIONS.h contains all necessary functions and structures for all other algorithms that are implemented.
 2. random_process.c generates the required number of processes based on user input.
