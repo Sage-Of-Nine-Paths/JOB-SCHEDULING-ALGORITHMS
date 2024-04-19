@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "scheduling.h": "c",
+        "RANDOM_TEST_CASE_GENERATOR.C": "cpp"
+    }
+}

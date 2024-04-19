@@ -1,0 +1,7 @@
+Process	Wait time	Turnaround time	Response time
+1	13	45	0
+2	40	63	2
+3	29	97	8
+4	58	71	56
+
+Average Response Time: 16.50
